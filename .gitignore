@@ -1,0 +1,5 @@
+# ignore the following  files #
+*.pyc
+*.out
+/fast-scnn/dataset/kitti_seg
+
